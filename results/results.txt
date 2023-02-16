@@ -1,0 +1,19 @@
+Total Byte Count: 55644338
+File List
+______________
+pyShell.py
+pyFileChallenge.py
+pyModules.py
+newLearn1.py
+pyExceptions.py
+PythonLearn02.py
+pyFile.py
+test.zip
+pyPalindrome.py
+pyOSPath.py
+newPython.iml
+PythonLearn01.py
+textFile.txt
+pyClass.py
+archivePy.zip
+textFileBackup.txt
